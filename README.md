@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandeep Muhal</h1>
 <h3 align="center">Aspiring Software Engineer | Machine Learning Enthusiast | Passionate Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmuhal88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sandeepmuhal88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sandeepmuhal88?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
 
 ## 🚀 About Me
 - 🎓 **3rd-year B.Tech Student** at *Bikaner Technical University* specializing in **Computer Science & Engineering**.
@@ -10,40 +15,72 @@
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/)**.
-- 👨‍💻 **Portfolio Website:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
+- 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
 - 📫 **Contact Me:** sandeepmuhal9982@gmail.com
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/14nZAJqiTYMwNB1SeArzuHXIoUsh6Tz1Q/view?usp=sharing)
 
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/i_sandeepmuhal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sandeepmuhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/codehackesm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sandeepmuhal9982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/i_sandeepmuhal8" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/sandeepmuhal" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/codehackesm/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/sandeepmuhal9982" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,git,tensorflow,pytorch" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepmuhal88&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmuhal88&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmuhal88&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmuhal88&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Fun & Dynamic GitHub Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepmuhal88&theme=darkhub" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepmuhal88&theme=react-dark" alt="Activity Graph" />
+</p>
+
+---
+
+## 🚀 Recent Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepmuhal88&theme=dracula" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
+</p>
+
+---
+
+### 🎵 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false"/>
+</p>
+
+---
+
+### ✨ Keep Exploring & Keep Growing! 🚀
