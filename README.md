@@ -14,7 +14,7 @@
 - 🔨 **Projects:** Developed **4+ Python projects**, demonstrating problem-solving and programming skills.
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
-- 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/)**.
+- 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube]([https://www.youtube.com/](https://www.youtube.com/@sandeepmuhal88))**.
 - 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
 - 📫 **Contact Me:** sandeepmuhal9982@gmail.com
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/14nZAJqiTYMwNB1SeArzuHXIoUsh6Tz1Q/view?usp=sharing)
