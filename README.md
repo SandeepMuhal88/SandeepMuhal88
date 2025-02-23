@@ -41,8 +41,6 @@
 </p>
 
 ---
-
-## 🛠️ Languages & Tools
 ## 🚀 Languages, Tools, and Frameworks:
 
 <p align="left">
@@ -92,7 +90,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmuhal88&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ---
 
 ## 🎯 Fun & Dynamic GitHub Badges
