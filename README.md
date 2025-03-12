@@ -92,13 +92,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
 
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ---
 
 ## 🎯 Fun & Dynamic GitHub Badges
