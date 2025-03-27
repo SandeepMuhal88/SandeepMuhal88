@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 **3rd-year B.Tech Student** at *Bikaner Technical University* specializing in **Computer Science & Engineering**.
-- 💻 **Tech Stack:** Proficient in **Python** (Django, NumPy), **Java** (DSA), and basic knowledge of **C++ & C**.
+- 💻 **Tech Stack:** Proficient in **Python** (DSA,Django, NumPy), **Java**, and basic knowledge of **C++ & C**.
 - 🔨 **Projects:** Developed **4+ Python projects**, demonstrating problem-solving and programming skills.
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
