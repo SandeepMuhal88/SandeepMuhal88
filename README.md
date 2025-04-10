@@ -12,6 +12,7 @@
 - 🎓 **3rd-year B.Tech Student** at *Bikaner Technical University* specializing in **Computer Science & Engineering**.
 - 💻 **Tech Stack:** Proficient in **Python** (DSA,Django, NumPy), **Java**, and basic knowledge of **C++ & C**.
 - 🔨 **Projects:** Developed **4+ Python projects**, demonstrating problem-solving and programming skills.
+- Current i am working an project Cancer Detection device with my team.
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
