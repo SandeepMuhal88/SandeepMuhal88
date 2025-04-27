@@ -21,7 +21,7 @@
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
 - 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
-- 📫 **Contact Me:** sandeepmuhal9982@gmail.com
+- 📫 **Contact Me:** sandeepmuhal8840@gmail.com
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/14nZAJqiTYMwNB1SeArzuHXIoUsh6Tz1Q/view?usp=sharing)
 
 ---
