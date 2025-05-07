@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandeep Muhal</h1>
-<h3 align="center"> Machine Learning Enthusiast |Current Master Deep Learning and AI| Passionate Problem Solver</h3>
+<h3 align="center"> Machine Learning Enthusiast | Current Mastering Deep Learning and AI | Passionate Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!+Always+learning+and+building+something+cool!;Machine+Learning+%7C+Software+Development+%7C+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+and+Building+Something.;I+accept+365+Days+Challenge.;Follow+Me+On+YouTube+And+Instagram." alt="Typing SVG" />
 </p>
 
 <p align="center"> 
