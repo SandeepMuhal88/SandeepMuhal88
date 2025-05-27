@@ -24,8 +24,7 @@
 - 📫 **Contact Me:** sandeepmuhal8840@gmail.com
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1x9k8SuxiB4L6tKHX9t4eOV52rIdsTqya/view?usp=drivesdk)
 
-Hy i am a Machine learning Engineering
- ![Coding Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+   ![Coding Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 ---
@@ -123,6 +122,7 @@ Hy i am a Machine learning Engineering
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
 </p>
+![Code Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
