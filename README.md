@@ -113,17 +113,13 @@
 </p>
 
 ---
+## Emoji
+![Expressionless Face](https://github.com/user-attachments/assets/c012b2e1-9b4a-4429-8756-68cec3c0e96e)
 
-## 🚀 Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepmuhal88&theme=dracula" alt="GitHub Contribution Graph" />
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
 </p>
-![Code Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 ---
 
 ### ✨ Keep Coding & Keep Growing! 🚀
