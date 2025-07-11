@@ -13,12 +13,21 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **3rd-year B.Tech Student** at *Bikaner Technical University* specializing in **Computer Science & Engineering**.
-- 💻 **Tech Stack:** Proficient in **Python** (DSA,Django, NumPy), **Java**, and basic knowledge of **C++ & C**.
-- 🔨 **Projects:** Developed **4+ Python projects**, demonstrating problem-solving and programming skills.
+- 🎓 **4th-year B.Tech Student** at *Bikaner Technical University* specializing in **Computer Science & Engineering**.
+- 💻 **Tech Stack:** Proficient in **Python** (DSA,NumPy,Pandas,Matplotlib,Seaborn,Scipy), **Java**, and basic knowledge of **C++ & C**.
+- 🔨 **Projects:** Developed **4+ projects  Data Anlysis**, demonstrating problem-solving and programming skills.
 - Current i am working an project Cancer Detection device with my team.
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
+- ⚙️ **Technical Skills:**
+- 1. *Programming Languages:* C, Python (Data Structures & Algorithms, Object-Oriented Programming, File Handling), SQL 
+- 2. *Frontend Development:* HTML, CSS, JavaScript.
+  3. *Data Analysis:* Pandas, NumPy, Scikit- Learn.
+  4. *Data Visualization:* Matplotlib, Seaborn Machine Learning: Regression, Classification
+  5. *Frameworks & Tools:* Jupyter, Kaggle, Google Colab, Streamlit, pytorch, tensorflow,keras 
+  6. *Version Control:* Git GitHub
+  7. *Skills:* Data Preprocessing, Model Deployment, Version Control, Exploratory Data Analysis, Neural Network Design 
+      Education. 
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
 - 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
 - 📫 **Contact Me:** sandeepmuhal8840@gmail.com
