@@ -29,9 +29,9 @@
   7. *Skills:* Data Preprocessing, Model Deployment, Version Control, Exploratory Data Analysis, Neural Network Design 
       Education. 
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
-- 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
+- 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/sandeep-portfolio-website/)
 - 📫 **Contact Me:** sandeepmuhal8840@gmail.com
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1x9k8SuxiB4L6tKHX9t4eOV52rIdsTqya/view?usp=drivesdk)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1uYXt3d5ot69EXDJx5c1cymE5VmCDlRkw/view?usp=sharing)
 
    ![Coding Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
