@@ -122,9 +122,6 @@
 </p>
 
 ---
-## Emoji
-![Expressionless Face](https://github.com/user-attachments/assets/c012b2e1-9b4a-4429-8756-68cec3c0e96e)
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
