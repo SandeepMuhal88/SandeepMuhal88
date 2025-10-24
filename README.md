@@ -95,21 +95,30 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 📊 GitHub & LeetCode Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmuhal88&theme=tokyonight" alt="GitHub Streak" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/CodehackeSM?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmuhal88&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepmuhal88&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmuhal88&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 ---
 
 ## 🎯 Fun & Dynamic GitHub Badges
