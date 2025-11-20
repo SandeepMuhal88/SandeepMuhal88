@@ -31,7 +31,7 @@
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
 - 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/sandeep-portfolio-website/)
 - 📫 **Contact Me:** sandeepmuhal8840@gmail.com
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1vwR4JzbGSxgvVb-64MdGg28JCKzk-yfu/view?usp=sharing)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1fW5KR9a3Wpi0U6mbrdy484tXGDHTwa_j/view?usp=drive_link)
 
    ![Coding Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
