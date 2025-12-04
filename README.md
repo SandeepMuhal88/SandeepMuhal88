@@ -20,14 +20,18 @@
 - 📚 **Currently Learning:** Advancing in **Machine Learning, AI, and Full-Stack Development**.
 - 🎯 **Goal:** Secure a **75 LPA job** at a top-tier company by **end of 2025**.
 - ⚙️ **Technical Skills:**
-- 1. *Programming Languages:* C, Python (Data Structures & Algorithms, Object-Oriented Programming, File Handling), SQL 
+- 1. *Programming Languages:* C, Python (Data Structures & Algorithms, Object-Oriented Programming, File Handling), SQL ,Dart language,Flutter.
 - 2. *Frontend Development:* HTML, CSS, JavaScript.
-  3. *Data Analysis:* Pandas, NumPy, Scikit- Learn.
+  3. *Data Analysis:* Pandas, NumPy, Scikit- Learn, Langchain
   4. *Data Visualization:* Matplotlib, Seaborn Machine Learning: Regression, Classification
   5. *Frameworks & Tools:* Jupyter, Kaggle, Google Colab, Streamlit, pytorch, tensorflow,keras 
   6. *Version Control:* Git GitHub
   7. *Skills:* Data Preprocessing, Model Deployment, Version Control, Exploratory Data Analysis, Neural Network Design 
-      Education. 
+      Education, Make LLMS.
+  8. *Machine Learning:* Regression, Classification, Feature Engineering, Model Optimization
+  9. *Deep Learning:* CNN, RNN/LSTM, Transfer Learning, Vision Models
+  10. *LLMs & NLP:* BERT, GPT, T5, LLaMA, LangChain, Prompt Engineering, Embeddings, RAG, FAISS
+  11. Frameworks/Libraries:* PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV, NLTK, HuggingFace Transformers.
 - 🚀 **365 Days Challenge:** Uploading my progress on **[YouTube](https://www.youtube.com/@sandeepmuhal88/)**.
 - 🌐 **Portfolio:** [Visit Here](https://sandeepmuhal88.github.io/sandeep-portfolio-website/)
 - 📫 **Contact Me:** sandeepmuhal8840@gmail.com
