@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Muhal</h1>
-<h3 align="center"> Machine Learning Enthusiast | Deep Learning and AI | Passionate Problem Solver | Current make a LLM using Transformer </h3>
+<h3 align="center"> Deep Learning Enthusiast | Machine Learning and AI | Passionate Problem Solver | Current make a LLM using Transformer and Make Agents using LangChain and LangGraph </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+and+Building+Something.;I+accept+365+Days+Challenge.;Follow+Me+On+YouTube+And+Instagram." alt="Typing SVG" />
