@@ -120,7 +120,7 @@ I specialize in:
 ## 📌 Additional Links
 - 📄 **Resume:** https://drive.google.com/...
 - 🌐 **Portfolio:** https://sandeepmuhal88.github.io/sandeep-portfolio-website/
-- 🎥 **365 Days Challenge:** https://youtube.com/@sandeepmuhal88
+- 🎥 **365 Days Challenge complete and achieve my goal:** https://youtube.com/@sandeepmuhal88
 
 ---
 
