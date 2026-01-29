@@ -118,7 +118,7 @@ I specialize in:
 ---
 
 ## 📌 Additional Links
-- 📄 **Resume:** https://drive.google.com/...
+- 📄 **Resume:** https://drive.google.com/file/d/1fW5KR9a3Wpi0U6mbrdy484tXGDHTwa_j/view?usp=sharing
 - 🌐 **Portfolio:** https://sandeepmuhal88.github.io/sandeep-portfolio-website/
 - 🎥 **365 Days Challenge complete and achieve my goal:** https://youtube.com/@sandeepmuhal88
 
