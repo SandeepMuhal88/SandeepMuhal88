@@ -123,6 +123,10 @@ I specialize in:
 - 🎥 **365 Days Challenge complete and achieve my goal:** https://youtube.com/@sandeepmuhal88
 
 ---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
