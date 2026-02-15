@@ -118,8 +118,8 @@ I specialize in:
 ---
 
 ## 📌 Additional Links
-- 📄 **Resume:** https://drive.google.com/file/d/1fW5KR9a3Wpi0U6mbrdy484tXGDHTwa_j/view?usp=sharing
-- 🌐 **Portfolio:** https://sandeepmuhal88.github.io/sandeep-portfolio-website/
+- 📄 **Resume:** 
+- 🌐 Portfolio 
 ---
 <!-- Snake Game Repo View -->
 <div align="center">
