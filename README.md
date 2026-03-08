@@ -86,7 +86,7 @@ I specialize in:
       <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&theme=tokyonight" width="400"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=sandeepmuhal88&theme=tokyonight&hide_border=true" width="400"/>
+      <img src="https://streak-stats.demolab.com?user=sandeepmuhal88&theme=tokyonight&cache=1" width="400"/>
     </td>
   </tr>
   <tr>
