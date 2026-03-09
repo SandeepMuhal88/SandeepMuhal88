@@ -83,18 +83,12 @@ I specialize in:
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuhal88&show_icons=true&theme=tokyonight" width="400"/>
-    </td>
-    <td>
       <img src="https://streak-stats.demolab.com?user=sandeepmuhal88&theme=tokyonight&cache=1" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://leetcard.jacoblin.cool/CodehackeSM?theme=dark&ext=heatmap" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmuhal88&layout=compact&theme=tokyonight" width="400"/>
     </td>
   </tr>
 </table>
@@ -119,7 +113,6 @@ I specialize in:
 
 ## 📌 Additional Links
 - 📄 **Resume:** https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view?usp=sharing
-- 🌐 **Portfolio:** https://sandeepmuhal88.github.io/sandeep-portfolio-website/
 - 🌐 **Portfolio:** https://sandeepmuhal.vercel.app/
 ---
 <!-- Snake Game Repo View -->
