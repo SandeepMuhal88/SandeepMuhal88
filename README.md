@@ -75,6 +75,9 @@ I specialize in:
 
 - 🤖 **LLM Systems (Ongoing)**  
   Building custom LLM pipelines and AI agents using Transformers, LangChain, and LangGraph.
+  
+- 🤖 **Local LLM Systems (Ongoing)**  
+  Building custom Local  LLM pipelines and AI agents using Transformers, LangChain, and LangGraph.
 
 ---
 
