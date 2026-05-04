@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sandeep Muhal</h1>
 <h3 align="center">
-Aspiring Data Scientist | Machine Learning & Deep Learning Engineer | LLM & AI Systems Builder
+AI Systems Builder | Machine Learning Engineer | LLM & On-Device AI Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Building+Data-Driven+AI+Systems;Focused+on+ML,+DL+%26+LLMs;365+Days+of+Consistent+Growth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Building+AI+Systems+That+Run+Locally;Focused+on+ML,+DL+%26+LLMs;Shipping+Projects+Consistently+(365+Days)" />
 </p>
 
 <p align="center"> 
@@ -16,24 +16,48 @@ Aspiring Data Scientist | Machine Learning & Deep Learning Engineer | LLM & AI S
 
 ## 👨‍💻 Professional Summary
 
-I am a **final-year B.Tech Computer Science student** with strong hands-on experience in  
-**Machine Learning, Deep Learning, Data Analysis, and Large Language Models**.
+I am a **final-year B.Tech Computer Science student** focused on building **production-ready AI systems**.
 
-I specialize in:
-- Building **end-to-end ML pipelines**
-- Designing **deep learning models**
-- Developing **LLM-powered applications** using LangChain & LangGraph
+My work goes beyond theory — I design and implement:
+- **End-to-end ML pipelines**
+- **Deep learning architectures**
+- **LLM-powered applications (cloud + local)**
+- **On-device AI assistants with real-time interaction**
 
-🎯 **Career Goal:** Secure a **Data Scientist / ML Engineer role** in a high-impact tech organization.
+🎯 **Goal:** Secure a **Machine Learning Engineer / Data Scientist role** where I can build scalable AI systems.
+
+---
+
+## 🚀 Flagship Project
+
+### 🤖 RAMA AI — Local AI Assistant (Offline LLM System)
+
+> A fully functional **on-device AI assistant** powered by local LLM inference.
+
+**Key Highlights:**
+- ⚡ Runs **locally using llama.cpp** (no cloud dependency)
+- 📱 Integrated with **Flutter UI**
+- 🧠 Supports **context-aware conversations**
+- 💾 Maintains **chat history & session memory**
+- 🚀 Optimized for **low latency inference**
+- 🎨 Custom UI inspired by modern AI systems (Claude-style interface)
+
+**Tech Stack:**
+- LLM: LLaMA / GGUF models
+- Backend: llama.cpp
+- Frontend: Flutter
+- Orchestration: LangChain (for pipeline extensions)
+
+👉 This project demonstrates my ability to build **real-world AI systems under constraints (latency, memory, offline execution).**
 
 ---
 
 ## 🧠 Core Technical Expertise
 
 ### 🔹 Programming & Foundations
-- Python (DSA, OOP, File Handling)
+- Python (OOP, DSA, File Handling)
 - SQL, Java, C/C++
-- Data Structures & Algorithms
+- System Design Basics
 
 ### 🔹 Data Science & Analytics
 - Data Cleaning & Preprocessing
@@ -49,17 +73,17 @@ I specialize in:
 - Scikit-learn Pipelines
 
 ### 🔹 Deep Learning
-- Neural Networks (ANN, CNN, RNN, LSTM)
+- ANN, CNN, RNN, LSTM
 - Transfer Learning
-- Computer Vision Models
+- Computer Vision
 
-**Frameworks:** PyTorch, TensorFlow, Keras
+**Frameworks:** PyTorch, TensorFlow
 
 ### 🔹 LLMs & NLP
 - Transformers (BERT, GPT, T5, LLaMA)
 - Prompt Engineering
-- Embeddings & Vector Databases
-- Retrieval-Augmented Generation (RAG)
+- RAG Pipelines
+- Embeddings & Vector DBs
 
 **Tools:** LangChain, LangGraph, FAISS, HuggingFace
 
@@ -68,16 +92,13 @@ I specialize in:
 ## 🔬 Projects & Research Work
 
 - 📊 **Data Analysis Projects (4+)**  
-  End-to-end analysis using real-world datasets with insights and visualizations.
+  Real-world datasets → insights → visualization → decision support
 
-- 🧬 **Cancer Detection Device (Ongoing – Team Project)**  
-  Applying ML & sensor-based intelligence for early detection use cases.
+- 🧬 **Cancer Detection Device (Team Project)**  
+  ML + sensor integration for early detection
 
-- 🤖 **LLM Systems (Ongoing)**  
-  Building custom LLM pipelines and AI agents using Transformers, LangChain, and LangGraph.
-  
-- 🤖 **Local LLM Systems (Ongoing)**  
-  Building custom Local  LLM pipelines and AI agents using Transformers, LangChain, and LangGraph.
+- 🤖 **LLM Systems (Cloud + Local)**  
+  Built intelligent pipelines using LangChain & Transformers
 
 ---
 
@@ -115,10 +136,11 @@ I specialize in:
 ---
 
 ## 📌 Additional Links
-- 📄 **Resume:** https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view?usp=sharing
+- 📄 **Resume:** https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view
 - 🌐 **Portfolio:** https://sandeepmuhal.vercel.app/
+
 ---
-<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
