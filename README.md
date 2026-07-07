@@ -16,7 +16,7 @@ AI Systems Builder | Machine Learning Engineer | LLM & On-Device AI Specialist
 
 ## 👨‍💻 Professional Summary
 
-I am a **final-year B.Tech Computer Science student** focused on building **production-ready AI systems**.
+I am a **B.Tech Computer Science student** and practicing **Data Scientist** focused on building **production-ready AI systems**.
 
 My work goes beyond theory — I design and implement:
 - **End-to-end ML pipelines**
@@ -25,6 +25,16 @@ My work goes beyond theory — I design and implement:
 - **On-device AI assistants with real-time interaction**
 
 🎯 **Goal:** Secure a **Machine Learning Engineer / Data Scientist role** where I can build scalable AI systems.
+
+---
+
+## 💼 Professional Experience
+
+### **CypherXelites** — *Data Scientist*
+_Present_
+- Designing and implementing end-to-end machine learning pipelines and data-driven solutions.
+- Utilizing advanced statistical analysis, predictive modeling, and deep learning architectures to extract insights and optimize systems.
+- Collaborating across technical environments to deliver scalable, production-ready AI models.
 
 ---
 
