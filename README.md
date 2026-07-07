@@ -124,13 +124,13 @@ _Present_
 
 <p align="center">
   <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/linkedin.gif" alt="LinkedIn 3D" width="50" height="50" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn 3D" width="55" height="55" style="margin: 0 10px;" />
   </a>
   <a href="https://www.kaggle.com/sandeepmuhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/kaggle.gif" alt="Kaggle 3D" width="50" height="50" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle 3D" width="55" height="55" style="margin: 0 10px;" />
   </a>
   <a href="https://leetcode.com/u/codehackesm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/leetcode.gif" alt="LeetCode 3D" width="50" height="50" style="margin: 0 15px;" />
+    <img src="https://icon-sets.iconify.design/images/academicons/leetcode.svg" alt="LeetCode 3D" width="55" height="55" style="margin: 0 10px; background: white; padding: 5px; border-radius: 12px;" />
   </a>
 </p>
 
@@ -147,6 +147,6 @@ _Present_
 </p>
 
 <div align="center">
-  <!-- 3D Spinning Python Logo Asset -->
-  <img src="https://raw.githubusercontent.com/vinesmsuic/vinesmsuic/main/assets/python.gif" alt="Python 3D" width="80" height="80" />
+  <!-- Stable Spinning Python Logo Asset -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749419-30df1542-a89a-4c2c-974d-d8f828a1a97d.gif" alt="Python 3D" width="70" height="70" />
 </div>
