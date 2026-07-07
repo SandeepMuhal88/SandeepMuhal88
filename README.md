@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sandeep Muhal</h1>
 <h3 align="center">
-AI Systems Builder | Machine Learning Engineer | LLM & On-Device AI Specialist
+Data Scientist | AI Systems Builder | On-Device LLM Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Building+AI+Systems+That+Run+Locally;Focused+on+ML,+DL+%26+LLMs;Shipping+Projects+Consistently+(365+Days)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Extracting+Value+From+Complex+Data;Building+Production-Ready+ML+Pipelines;Deploying+On-Device+Local+AI;Shipping+Code+Consistently" />
 </p>
 
 <p align="center"> 
@@ -16,15 +16,12 @@ AI Systems Builder | Machine Learning Engineer | LLM & On-Device AI Specialist
 
 ## 👨‍💻 Professional Summary
 
-I am a **B.Tech Computer Science student** and practicing **Data Scientist** focused on building **production-ready AI systems**.
+I am a **Data Scientist & AI Engineer** specializing in bridging the gap between statistical data science and scalable production AI systems. 
 
-My work goes beyond theory — I design and implement:
-- **End-to-end ML pipelines**
-- **Deep learning architectures**
-- **LLM-powered applications (cloud + local)**
-- **On-device AI assistants with real-time interaction**
-
-🎯 **Goal:** Secure a **Machine Learning Engineer / Data Scientist role** where I can build scalable AI systems.
+My expertise spans across the entire data-to-production lifecycle:
+* 📊 **Predictive Modeling & Analytics** — Extracting actionable patterns from unstructured data pools.
+* ⚡ **On-Device AI** — Architecting low-latency, memory-constrained local inference applications.
+* 🤖 **End-to-End ML Pipelines** — Designing rigorous training, evaluation, and optimization workflows.
 
 ---
 
@@ -32,9 +29,9 @@ My work goes beyond theory — I design and implement:
 
 ### **CypherXelites** — *Data Scientist*
 _Present_
-- Designing and implementing end-to-end machine learning pipelines and data-driven solutions.
-- Utilizing advanced statistical analysis, predictive modeling, and deep learning architectures to extract insights and optimize systems.
-- Collaborating across technical environments to deliver scalable, production-ready AI models.
+* **Predictive Modeling:** Architecting end-to-end machine learning pipelines to solve complex, data-driven business challenges.
+* **Statistical Insights:** Applying advanced statistical analysis, feature engineering, and exploratory data analytics (EDA) to large-scale datasets.
+* **Deep Learning Integration:** Implementing custom deep learning architectures and transformer models to optimize internal system workflows.
 
 ---
 
@@ -42,77 +39,71 @@ _Present_
 
 ### 🤖 RAMA AI — Local AI Assistant (Offline LLM System)
 
-> A fully functional **on-device AI assistant** powered by local LLM inference.
+> A fully autonomous, **on-device AI assistant** engineered for high-throughput local inference under strict hardware constraints.
 
-**Key Highlights:**
-- ⚡ Runs **locally using llama.cpp** (no cloud dependency)
-- 📱 Integrated with **Flutter UI**
-- 🧠 Supports **context-aware conversations**
-- 💾 Maintains **chat history & session memory**
-- 🚀 Optimized for **low latency inference**
-- 🎨 Custom UI inspired by modern AI systems (Claude-style interface)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="20" height="20" /> <b>Key Architecture Highlights:</b>
+</p>
 
-**Tech Stack:**
-- LLM: LLaMA / GGUF models
-- Backend: llama.cpp
-- Frontend: Flutter
-- Orchestration: LangChain (for pipeline extensions)
+* **Zero Cloud Dependency:** Powered by highly optimized quantized GGUF models executing locally via `llama.cpp`.
+* **Low-Latency Inference:** Tuned context-aware inference pipelines ensuring responsive local processing.
+* **State Management:** Fully integrated session memory and secure local history tracking inside a custom Flutter ecosystem.
 
-👉 This project demonstrates my ability to build **real-world AI systems under constraints (latency, memory, offline execution).**
+**Tech Stack:** `Python` | `LLaMA / GGUF` | `llama.cpp` | `Flutter` | `LangChain`
 
 ---
 
-## 🧠 Core Technical Expertise
+## 🧠 Technical Arsenal
 
-### 🔹 Programming & Foundations
-- Python (OOP, DSA, File Handling)
-- SQL, Java, C/C++
-- System Design Basics
-
-### 🔹 Data Science & Analytics
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Statistical Analysis
-
-**Libraries:** Pandas, NumPy, SciPy
-
-### 🔹 Machine Learning
-- Regression & Classification
-- Model Evaluation & Optimization
-- Scikit-learn Pipelines
-
-### 🔹 Deep Learning
-- ANN, CNN, RNN, LSTM
-- Transfer Learning
-- Computer Vision
-
-**Frameworks:** PyTorch, TensorFlow
-
-### 🔹 LLMs & NLP
-- Transformers (BERT, GPT, T5, LLaMA)
-- Prompt Engineering
-- RAG Pipelines
-- Embeddings & Vector DBs
-
-**Tools:** LangChain, LangGraph, FAISS, HuggingFace
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" /><br/>
+      <b>Core Language</b>
+    </td>
+    <td width="80%">
+      <b>Languages & Foundations:</b><br/>
+      Python (Advanced OOP, DSA), SQL, C++, Java, System Design Basics
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height="50" alt="Data Science" /><br/>
+      <b>Data Science</b>
+    </td>
+    <td>
+      <b>Analytics & Engineering:</b><br/>
+      Exploratory Data Analysis (EDA), Statistical Inference, Feature Engineering, Data Pipeline Optimization<br/>
+      <i>Tools: Pandas, NumPy, SciPy, Scikit-learn Pipelines</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="Deep Learning" /><br/>
+      <b>Deep Learning</b>
+    </td>
+    <td>
+      <b>Computer Vision & Networks:</b><br/>
+      ANN, CNN architectures, RNN/LSTM, Transfer Learning, Model Optimization<br/>
+      <i>Frameworks: PyTorch, TensorFlow, OpenCV</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a505b263b6526eb988716b47db95f870/langchain.png" width="50" height="50" alt="GenAI" /><br/>
+      <b>Generative AI</b>
+    </td>
+    <td>
+      <b>Large Language Models:</b><br/>
+      Transformers (BERT, GPT, LLaMA), Retrieval-Augmented Generation (RAG) Pipelines, Prompt Engineering, Agentic Workflows<br/>
+      <i>Tools: LangChain, LangGraph, FAISS, HuggingFace</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔬 Projects & Research Work
-
-- 📊 **Data Analysis Projects (4+)**  
-  Real-world datasets → insights → visualization → decision support
-
-- 🧬 **Cancer Detection Device (Team Project)**  
-  ML + sensor integration for early detection
-
-- 🤖 **LLM Systems (Cloud + Local)**  
-  Built intelligent pipelines using LangChain & Transformers
-
----
-
-## 📊 GitHub & Coding Stats
+## 📊 Analytics & Coding Metrics
 
 <table align="center">
   <tr>
@@ -129,32 +120,33 @@ _Present_
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandeep-muhal-5672aa285">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/linkedin.gif" alt="LinkedIn 3D" width="50" height="50" style="margin: 0 15px;" />
   </a>
-  <a href="https://leetcode.com/u/codehackesm/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
+  <a href="https://www.kaggle.com/sandeepmuhal" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/kaggle.gif" alt="Kaggle 3D" width="50" height="50" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.kaggle.com/sandeepmuhal">
-    <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle"/>
+  <a href="https://leetcode.com/u/codehackesm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcoro/devicons/main/assets/leetcode.gif" alt="LeetCode 3D" width="50" height="50" style="margin: 0 15px;" />
   </a>
 </p>
 
+<br/>
+
+**Assets & Repositories:**
+* 📄 **Curriculum Vitae:** [Access Google Drive Link](https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view)
+* 🌐 **Interactive Portfolio:** [sandeepmuhal.vercel.app](https://sandeepmuhal.vercel.app/)
+
 ---
-
-## 📌 Additional Links
-- 📄 **Resume:** https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view
-- 🌐 **Portfolio:** https://sandeepmuhal.vercel.app/
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+<div align="center">
+  <!-- 3D Spinning Python Logo Asset -->
+  <img src="https://raw.githubusercontent.com/vinesmsuic/vinesmsuic/main/assets/python.gif" alt="Python 3D" width="80" height="80" />
+</div>
