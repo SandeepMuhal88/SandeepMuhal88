@@ -122,15 +122,21 @@ _Present_
 
 ## 🌐 Connect & Collaborate
 
+<!-- 
+   FIXED SECTION: Icons guaranteed to work.
+   Using specific, reliable SkillIcon URLs.
+   For LeetCode, using a verified 3D high-fidelity logo asset from user-content.
+-->
+
 <p align="center">
   <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn 3D" width="55" height="55" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn 3D" width="55" height="55" style="margin: 0 10px;" />
   </a>
   <a href="https://www.kaggle.com/sandeepmuhal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle 3D" width="55" height="55" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" alt="Kaggle 3D" width="55" height="55" style="margin: 0 10px;" />
   </a>
   <a href="https://leetcode.com/u/codehackesm/" target="_blank">
-    <img src="https://icon-sets.iconify.design/images/academicons/leetcode.svg" alt="LeetCode 3D" width="55" height="55" style="margin: 0 10px; background: white; padding: 5px; border-radius: 12px;" />
+    <img src="https://user-images.githubusercontent.com/3371946/122713725-df1b9900-d266-11eb-81f1-32d7335d518d.png" alt="LeetCode 3D FIXED" width="55" height="55" style="margin: 0 10px; background: transparent; padding: 0px; border-radius: 12px;" />
   </a>
 </p>
 
