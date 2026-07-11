@@ -90,7 +90,10 @@ _Present_
   </tr>
   <tr>
     <td align="center">
-      <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a505b263b6526eb988716b47db95f870/langchain.png" width="50" height="50" alt="GenAI" /><br/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+     width="50"
+     height="50"
+     alt="Hugging Face" /><br/>
       <b>Generative AI</b>
     </td>
     <td>
@@ -122,22 +125,21 @@ _Present_
 
 ## 🌐 Connect & Collaborate
 
-<!-- 
-   FIXED SECTION: Icons guaranteed to work.
-   Using specific, reliable SkillIcon URLs.
-   For LeetCode, using a verified 3D high-fidelity logo asset from user-content.
--->
 
 <p align="center">
   <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn 3D" width="55" height="55" style="margin: 0 10px;" />
   </a>
+  
   <a href="https://www.kaggle.com/sandeepmuhal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" alt="Kaggle 3D" width="55" height="55" style="margin: 0 10px;" />
-  </a>
-  <a href="https://leetcode.com/u/codehackesm/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/3371946/122713725-df1b9900-d266-11eb-81f1-32d7335d518d.png" alt="LeetCode 3D FIXED" width="55" height="55" style="margin: 0 10px; background: transparent; padding: 0px; border-radius: 12px;" />
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"
+         width="55"/>
+</a>
+
+<a href="https://leetcode.com/u/codehackesm/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+         width="55"/>
+</a>
 </p>
 
 <br/>
