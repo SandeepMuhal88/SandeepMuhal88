@@ -145,8 +145,8 @@ _Present_
 <br/>
 
 **Assets & Repositories:**
-* 📄 **Resume:** [Access Google Drive Link](https://drive.google.com/file/d/1jInL8ahnJvAlakFFSSd9Dxh-iSkvjZCN/view)
-* 🌐 ** Portfolio:** [sandeepmuhal.vercel.app](https://sandeepmuhalin.vercel.app/)
+* 📄 **Resume:** [Access Google Drive Link](https://drive.google.com/file/d/1K4ECQl9A37TNwU1C1mRKFp4VO5tNKlJ_/view?usp=sharing)
+* 🌐 **Portfolio:** [sandeepmuhal.vercel.app](https://sandeepmuhalin.vercel.app/)
 
 ---
 
